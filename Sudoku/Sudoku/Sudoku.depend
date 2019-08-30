@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1567092742 source:/media/ashini/0F2213B40F2213B4/projects/JourneyWithCPP/Sudoku/Sudoku/main.cpp
+	"bits/stdc++.h"
+	"sudoku.h"
+
+1567092191 /media/ashini/0F2213B40F2213B4/projects/JourneyWithCPP/Sudoku/Sudoku/sudoku.cpp
+	"cstdio.h"
+
+1567092752 /media/ashini/0F2213B40F2213B4/projects/JourneyWithCPP/Sudoku/Sudoku/sudoku.h
+
